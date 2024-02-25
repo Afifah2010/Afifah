@@ -1,0 +1,25 @@
+.header{
+	font-size: 40px;
+	font-family: "Poppins", sans-serif;
+}
+.input{
+	border-radius: 10px;
+	width: 150px;
+	height: 30px;
+
+}
+.button{
+	color: white;
+	background: blue;
+	border-radius: 10px;
+	font-family: "Poppins", sans-serif;
+	width: 90px;
+	height: 30px;
+}
+.button:hover{
+	color: pink;
+	background: purple;
+}
+#output{
+	font-family: "Poppins", sans-serif;
+}

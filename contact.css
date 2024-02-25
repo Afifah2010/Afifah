@@ -1,0 +1,58 @@
+.address{
+	width: 220px;
+	font-size: 15px;
+}
+.grid-container{
+	display: grid;
+	grid-template-columns: 250px 250px;
+	grid-column-gap: 15px;
+	grid-row-gap: 15px;
+	margin-left: 150px;
+}
+.grid-container div{
+	background: whitesmoke;
+	padding: 10px;
+}
+.form{
+	background: whitesmoke;
+	padding: 20px;
+	margin-left: 50px;
+}
+.te1{
+	height: 15px;
+	width: 180px;
+	padding: 10px;
+	font-size: 14px;
+	color: #ced4da;
+	margin-left: 15px;
+}
+.te2{
+	height: 15px;
+	width: 405px;
+	padding:10px;
+	font-size: 14px;
+	color: #ced4da;
+	margin-left: 15px;
+}
+textarea{
+	height: 120px;
+	width: 405px;
+	padding: 10px;
+	font-size: 14px;
+	color: #ced4da;
+	margin-left: 15px;
+}
+#newbtn{
+	text-align: center;
+}
+#newbtn button{
+	font-size: 16px;
+	padding: 13px;
+	color: white;
+	background: pink;
+	border-radius: none;
+	border-radius: 5px;
+}
+#newbtn button:hover{
+	background: #007aff;
+}
